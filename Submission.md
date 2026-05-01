@@ -12,9 +12,9 @@ Submit your public GitHub repository link in Canvas.
 
 Make sure your repository includes:
 
-- `starter_code.py`
+- `starter_code.py` IF using claude 
 - `final_code.py`
-- `specs.md`
+- `specs.md` If using Claude 
 - `README.md`
 - any additional files needed for your project
 
