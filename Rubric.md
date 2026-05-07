@@ -9,10 +9,11 @@
 | **Project Documentation**                              | **10 pts** | The repository includes documentation explaining what the program does and how to run it. This can be a `README.md`, a `specs.md`, or another clearly labeled document. Students who used Claude/Codex should include a `specs.md`; students who did not use AI can meet this requirement with a strong `README.md`. |
 | **Originality, Student Understanding, and Reflection** | **10 pts** | The student can explain how their project works and what they learned. The reflection should explain the development process, challenges faced, and what was improved. Students who used AI should also explain how AI was used and what changes were made.                                                          |
 Total: 100 points
-**
-Required Final Submission Files
 
-All students should submit their final project through a GitHub repository.**
+
+**Required Final Submission Files**
+
+**All students should submit their final project through a GitHub repository.**
 
 **Required for All Students**
 | Required Item               | Description                                                                 |
@@ -28,8 +29,10 @@ All students should submit their final project through a GitHub repository.**
 | Original source code      | The student’s original version before major AI assistance.                              |
 | AI-assisted final version | The completed version after using AI for polishing, debugging, or improvement.          |
 | AI-use explanation        | A short explanation of how AI was used and what the student changed or learned from it. |
-**
-Important Note About AI Use**
+
+
+
+**Important Note About AI Use**
 
 Students are not required to use Claude, Codex, ChatGPT, or any other AI tool for the final project.
 
