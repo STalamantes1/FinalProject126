@@ -16,6 +16,7 @@ Make sure your repository includes:
 - `final_code.py`
 - `specs.md` If using Claude 
 - `README.md`
+- `Write-Up`
 - any additional files needed for your project
 
 Your repository must be public so I can view and grade it.
